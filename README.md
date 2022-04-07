@@ -28,11 +28,12 @@
 ---
  __<h2 align="center">Интро</h2>__
 _<p align="center">Здесь проект о путешествии по России.</p>_
-<img![Картинка, Путешествие по России](readme_image/Intro.png)
+![Картинка, Путешествие по России](readme_image/Intro.png)
 
 __<h2 align="center">Photo-grid</h2>__
 _<p align="center">В Фото-грид размещен блок, с картинками, которые расположены в грид среде.</p>_
 <p align="center" src="readme_image/Photo_grid.png">Картинка, колонка грид</p>
+
 __<h2 align="center">Cover</h2>__
 _<p align="center">В Ковер, реализованно наложение эфекта затемнения с определенной прозрачностью.</p>_
 ![Картинка колонка грид](readme_image/Cover.png)
