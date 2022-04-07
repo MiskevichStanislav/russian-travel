@@ -21,4 +21,4 @@
 - https://html5book.ru/
 
 
-Ссылка https://miskevichstanislav.github.io/russian-travel/
+ [ПРОЕКТ:Путешествие по России](https://miskevichstanislav.github.io/russian-travel/)
