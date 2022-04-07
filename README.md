@@ -30,4 +30,18 @@
 _<p align="center">Здесь проект о путешествии по России.</p>_
 ![Картинка, Путешествие по России](readme_assets/Intro.png)
 
+__<h2 align="center">Photo-grid</h2>__
+_<p align="center">В Фото-грид размещен блок, с картинками, которые расположены в грид среде.</p>_
+![Картинка, колонка грид](readme_assets/Photo_grid.png)
+
+__<h2 align="center">Cover</h2>__
+_<p align="center">В Ковер, реализованно наложение эфекта затемнения с определенной прозрачностью.</p>_
+![Картинка колонка грид](readme_assets/Cover.png)
+
+
+__<h2 align="center">Places</h2>__
+_<p align="center">Плейс, знакомит нас о красиввых местах России, с фото и ссылками.</p>_
+
+![оптимизировать картинки](readme_assets/Places.png)
+
  ### [ПРОЕКТ:Путешествие по России](https://miskevichstanislav.github.io/russian-travel/)
