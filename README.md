@@ -32,7 +32,7 @@ _<p align="center">Здесь проект о путешествии по Рос
 
 __<h2 align="center">Photo-grid</h2>__
 _<p align="center">В Фото-грид размещен блок, с картинками, которые расположены в грид среде.</p>_
-<img src="readme_image/Photo_grid.png">[Картинка, колонка грид]
+<img align="center" src="readme_image/Photo_grid.png">Картинка, колонка грид/>
 __<h2 align="center">Cover</h2>__
 _<p align="center">В Ковер, реализованно наложение эфекта затемнения с определенной прозрачностью.</p>_
 ![Картинка колонка грид](readme_image/Cover.png)
