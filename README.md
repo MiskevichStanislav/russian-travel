@@ -28,7 +28,7 @@
 ---
 ## __<h2 align="center">Интро</h2>__
 _<p align="center">Здесь проект о путешествии по России.</p>_
-![Картинка, Путешествие по России](readme_image/Intro.png)
+<p align="center">![Картинка, Путешествие по России](readme_image/Intro.png)</p>
 
 __<h2 align="center">Photo-grid</h2>__
 _<p align="center">В Фото-грид размещен блок, с картинками, которые расположены в грид среде.</p>_
