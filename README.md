@@ -45,6 +45,6 @@ _<p align="center">Плейс, знакомит нас о красиввых м�
 
 ![оптимизировать картинки](readme_image/Places.png)
 
-![](animation_adaptive.gif)
+
 
  ### [ПРОЕКТ:Путешествие по России](https://miskevichstanislav.github.io/russian-travel/)
